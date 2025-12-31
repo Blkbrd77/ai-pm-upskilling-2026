@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Health Predictor</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        .card {
+            border-radius: 15px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+        }
+        .result-card {
+            background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
+            color: white;
+        }
+        .error-card {
+            background: linear-gradient(135deg, #eb3349 0%, #f45c43 100%);
+            color: white;
+        }
+        .btn-predict {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            border: none;
+            padding: 12px 40px;
+        }
+        .btn-predict:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+        }
+    </style>
+</head>
+<body>
+    <div class="container py-5">
+        <div class="row justify-content-center">
+            <div class="col-md-8 col-lg-6">
+
+                <!-- Header -->
+                <div class="text-center text-white mb-4">
+                    <h1 class="display-5 fw-bold">Project Health Predictor</h1>
+                    <p class="lead">ML-powered cost overrun prediction for project managers</p>
+                </div>
+
+                <!-- Prediction Form -->
+                <div class="card p-4 mb-4">
+                    <h5 class="card-title mb-4">Enter Project Metrics</h5>
+                    <form action="/predict" method="POST">
+                        <div class="mb-3">
+                            <label for="planned_bac" class="form-label">Planned BAC ($)</label>
+                            <input type="number" class="form-control" id="planned_bac" name="planned_bac"
+                                   placeholder="e.g., 100000" required>
+                            <div class="form-text">Budget at Completion - total planned budget</div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="time_elapsed" class="form-label">Time Elapsed (%)</label>
+                            <input type="number" class="form-control" id="time_elapsed" name="time_elapsed"
+                                   min="0" max="100" placeholder="e.g., 50" required>
+                            <div class="form-text">Percentage of project timeline completed</div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="hours_logged" class="form-label">Hours Logged</label>
+                            <input type="number" class="form-control" id="hours_logged" name="hours_logged"
+                                   placeholder="e.g., 1200" required>
+                            <div class="form-text">Total hours spent so far</div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="schedule_variance" class="form-label">Schedule Variance (%)</label>
+                            <input type="number" class="form-control" id="schedule_variance" name="schedule_variance"
+                                   placeholder="e.g., -5 (behind) or 10 (ahead)" required>
+                            <div class="form-text">Negative = behind schedule, Positive = ahead</div>
+                        </div>
+
+                        <div class="d-grid">
+                            <button type="submit" class="btn btn-primary btn-predict btn-lg">
+                                Predict Cost Overrun
+                            </button>
+                        </div>
+                    </form>
+                </div>
+
+                <!-- Result Display -->
+                {% if result %}
+                <div class="card result-card p-4 mb-4">
+                    <h5 class="card-title">Prediction Result</h5>
+                    <div class="display-4 fw-bold my-3">{{ result.prediction }}%</div>
+                    <p class="lead">{{ result.interpretation }}</p>
+                    <hr class="bg-white">
+                    <h6>Input Features:</h6>
+                    <ul class="list-unstyled mb-0">
+                        {% for key, value in result.features.items() %}
+                        <li><strong>{{ key }}:</strong> {{ value }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                {% endif %}
+
+                <!-- Error Display -->
+                {% if error %}
+                <div class="card error-card p-4 mb-4">
+                    <h5 class="card-title">Error</h5>
+                    <p class="mb-0">{{ error }}</p>
+                </div>
+                {% endif %}
+
+                <!-- Footer -->
+                <div class="text-center text-white-50">
+                    <p class="mb-1">AI/PM Upskilling Portfolio 2026</p>
+                    <p class="small">Built by Jay Samples</p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+# Render.com deployment configuration
+# https://render.com/docs/blueprint-spec
+
+services:
+  - type: web
+    name: project-health-predictor
+    env: python
+    buildCommand: pip install -r app/requirements.txt
+    startCommand: cd app && gunicorn main:app
+    plan: free
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0

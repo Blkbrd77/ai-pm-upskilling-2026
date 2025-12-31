@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files (large binaries - consider Git LFS for production)
+# Uncomment if you want to track models:
+# *.pkl
+
+# Environment variables
+.env
+*.env.local
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Data files (if too large)
+# Uncomment if needed:
+# data/*.csv
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
