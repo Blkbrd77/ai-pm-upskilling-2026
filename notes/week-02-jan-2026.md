@@ -1,56 +1,79 @@
 # Week 2: January 6-12, 2026
 
 ## Weekly Goal
-Supervised Learning Basics - Linear Regression, Cost Functions, Gradient Descent.
+Linear Regression Deep Dive - Course 1, Week 2 (Cost Function & Gradient Descent)
+
+**Course:** Supervised Machine Learning: Regression and Classification
+**Target:** 3.5 hours total (30 min/day × 7 days)
+
+---
 
 ## Daily Log
 
 ### Monday, January 6
-- [ ] **Learning:**
-- [ ] **Hands-on:**
+**Target:** Videos 11-12 (30 min)
+- [ ] **Learning:** Video 11 - Cost Function Formula (~10 min)
+- [ ] **Learning:** Video 12 - Cost Function Intuition (~15 min)
+- [ ] **Hands-on:** Sketch cost function graph
 - **Notes:**
-- **Time spent:** 0 min
+- **Time spent:** 0 / 30 min
 
 ### Tuesday, January 7
-- [ ] **Learning:**
-- [ ] **Hands-on:**
+**Target:** Videos 13-14 (30 min)
+- [ ] **Learning:** Video 13 - Visualizing the Cost Function (~8 min)
+- [ ] **Learning:** Video 14 - Visualization Examples (~12 min)
+- [ ] **Hands-on:** Optional Lab - Cost Function
 - **Notes:**
-- **Time spent:** 0 min
+- **Time spent:** 0 / 30 min
 
 ### Wednesday, January 8
-- [ ] **Learning:**
-- [ ] **Hands-on:**
+**Target:** Videos 15-16 (30 min)
+- [ ] **Learning:** Video 15 - Gradient Descent (~10 min)
+- [ ] **Learning:** Video 16 - Implementing Gradient Descent (~12 min)
+- [ ] **Hands-on:** Write pseudocode for gradient descent
 - **Notes:**
-- **Time spent:** 0 min
+- **Time spent:** 0 / 30 min
 
 ### Thursday, January 9
-- [ ] **Learning:**
-- [ ] **Hands-on:**
+**Target:** Videos 17-18 (30 min)
+- [ ] **Learning:** Video 17 - Gradient Descent Intuition (~10 min)
+- [ ] **Learning:** Video 18 - Learning Rate (~12 min)
+- [ ] **Hands-on:** Optional Lab - Gradient Descent
 - **Notes:**
-- **Time spent:** 0 min
+- **Time spent:** 0 / 30 min
 
 ### Friday, January 10
-- [ ] **Learning:**
-- [ ] **Hands-on:**
+**Target:** Videos 19-20 + Lab (30 min)
+- [ ] **Learning:** Video 19 - Gradient Descent for Linear Regression (~8 min)
+- [ ] **Learning:** Video 20 - Running Gradient Descent (~5 min)
+- [ ] **Hands-on:** Optional Lab - Gradient Descent for Linear Regression
 - **Notes:**
-- **Time spent:** 0 min
+- **Time spent:** 0 / 30 min
 
 ### Saturday, January 11
-- [ ] **Learning:**
-- [ ] **Hands-on:**
+**Target:** Week 2 Start - Multiple Features (30 min)
+- [ ] **Learning:** Week 2 Video 1 - Multiple Features (~10 min)
+- [ ] **Learning:** Week 2 Video 2 - Vectorization Part 1 (~8 min)
+- [ ] **Hands-on:** Review Python numpy arrays
 - **Notes:**
-- **Time spent:** 0 min
+- **Time spent:** 0 / 30 min
 
 ### Sunday, January 12
-- [ ] **Learning:**
-- [ ] **Hands-on:**
+**Target:** Quiz + Review (30 min)
+- [ ] **Learning:** Review Week 1 concepts
+- [ ] **Hands-on:** Complete Practice Quiz - Regression with Multiple Variables
+- [ ] **Hands-on:** Review any missed concepts
 - **Notes:**
-- **Time spent:** 0 min
+- **Time spent:** 0 / 30 min
 
 ---
 
 ## Weekly Summary
-**Total time:** 0 min
+**Total time:** 0 / 210 min (3.5 hrs)
+**Videos completed:** 0 / 12
+**Labs completed:** 0 / 3
+**Quizzes completed:** 0 / 1
+
 **Key learnings:**
 -
 
@@ -58,13 +81,14 @@ Supervised Learning Basics - Linear Regression, Cost Functions, Gradient Descent
 -
 
 **Next week focus:**
--
+- Feature scaling and learning rate tuning
+- Programming Assignment 1
 
 ---
 
 ## Points This Week
 | Activity | Points |
 |----------|--------|
-| Daily entries | 0 |
-| Weekly summary | 0 |
-| **Total** | **0** |
+| Daily entries (7 × 5) | 0 / 35 |
+| Weekly summary | 0 / 10 |
+| **Total** | **0 / 45** |
