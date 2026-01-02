@@ -10,39 +10,41 @@ Introduction to Machine Learning - Complete Course 1, Week 1 (Videos 1-10)
 
 ## Daily Log
 
-### Wednesday, January 1
+### Thursday, January 1
 **Target:** Videos 1-2 (30 min)
-- [ ] **Learning:** Video 1 - Welcome to Machine Learning (~8 min)
-- [ ] **Learning:** Video 2 - Applications of Machine Learning (~10 min)
-- [ ] **Hands-on:** Set up Coursera account, bookmark course
+- [x] **Learning:** Video 1 - Welcome to Machine Learning (~8 min)
+- [x] **Learning:** Video 2 - Applications of Machine Learning (~10 min)
+- [x] **Hands-on:** Set up Coursera account, bookmark course
 - **Notes:**
-- **Time spent:** 0 / 30 min
+- **Time spent:** 30 / 30 min
 
-### Thursday, January 2
+### Friday, January 2
 **Target:** Videos 3-4 (30 min)
-- [ ] **Learning:** Video 3 - What is Machine Learning? (~7 min)
-- [ ] **Learning:** Video 4 - Supervised Learning Part 1 (~12 min)
-- [ ] **Hands-on:** Take notes on supervised learning definition
+- [x] **Learning:** Video 3 - What is Machine Learning? (~7 min)
+- [x] **Learning:** Video 4 - Supervised Learning Part 1 (~12 min)
+- [x] **Hands-on:** Take notes on supervised learning definition
 - **Notes:**
-- **Time spent:** 0 / 30 min
+-Supervised - give input and output, e.g, spam/not spam, malignant/benign, etc... can classify or categorize data.
+- **Time spent:** 30 / 30 min
 
-### Friday, January 3
+### Saturday, January 3
 **Target:** Videos 5-6 (30 min)
-- [ ] **Learning:** Video 5 - Supervised Learning Part 2 (~8 min)
-- [ ] **Learning:** Video 6 - Unsupervised Learning Part 1 (~10 min)
-- [ ] **Hands-on:** Create comparison table: supervised vs unsupervised
+- [x] **Learning:** Video 5 - Supervised Learning Part 2 (~8 min)
+- [x] **Learning:** Video 6 - Unsupervised Learning Part 1 (~10 min)
+- [x] **Hands-on:** Create comparison table: supervised vs unsupervised
 - **Notes:**
-- **Time spent:** 0 / 30 min
+- Supervised - give input with outcome output, i.e, tumor size 1, Benign, tumor size 2, malignant. Unsupervised here is data set, group or find patterns/anomalies.
+- **Time spent:** 30 / 30 min
 
-### Saturday, January 4
+### Sunday, January 4
 **Target:** Videos 7-8 + Lab (30 min)
-- [ ] **Learning:** Video 7 - Unsupervised Learning Part 2 (~5 min)
+- [x] **Learning:** Video 7 - Unsupervised Learning Part 2 (~5 min)
 - [ ] **Learning:** Video 8 - Jupyter Notebooks (~4 min)
 - [ ] **Hands-on:** Optional Lab - Python and Jupyter Notebooks
 - **Notes:**
-- **Time spent:** 0 / 30 min
+- **Time spent:** 10 / 30 min
 
-### Sunday, January 5
+### Monday, January 5
 **Target:** Videos 9-10 + Quiz (30 min)
 - [ ] **Learning:** Video 9 - Linear Regression Model Part 1 (~10 min)
 - [ ] **Learning:** Video 10 - Linear Regression Model Part 2 (~8 min)
