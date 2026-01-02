@@ -1,7 +1,7 @@
 # AI/PM Upskilling Portfolio 2026
 
 **Author:** Jay Samples
-**Goal:** Transition to AI Product Manager / AI Program Manager roles by demonstrating practical ML application to project management domains.
+**Goal:** Hone skills as AI Product Manager / AI Program Manager by demonstrating practical ML application to project management domains.
 
 ---
 
