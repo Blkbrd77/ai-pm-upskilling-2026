@@ -9,8 +9,8 @@
 
 | Metric | Value |
 |--------|-------|
-| Current Streak | 0 days |
-| Total Points | 0 |
+| Current Streak | 2 days |
+| Total Points | 10 |
 | Phase | 1 - Foundations |
 | Start Date | January 1, 2026 |
 
@@ -21,7 +21,7 @@
 ```
 Q1 2026 PROGRESS
 ================
-January   [░░░░░░░░░░░░░░░░░░░░] 0%   Foundations
+January   [░░░░░░░░░░░░░░░░░░░░] 20%   Foundations
 February  [░░░░░░░░░░░░░░░░░░░░] 0%   Hands-On ML
 March     [░░░░░░░░░░░░░░░░░░░░] 0%   Integration & Deployment
 
@@ -34,8 +34,8 @@ Overall   [░░░░░░░░░░░░░░░░░░░░] 0%
 
 | Week | Dates | Focus | Status | Points Earned |
 |------|-------|-------|--------|---------------|
-| 1 | Jan 1-5 | ML Foundations - Course Setup | Not Started | 0 |
-| 2 | Jan 6-12 | Supervised Learning Basics | Not Started | 0 |
+| 1 | Jan 1-5 | ML Foundations - Course Setup | Completed | 10 |
+| 2 | Jan 6-12 | Supervised Learning Basics |  Started | 5 |
 | 3 | Jan 13-19 | Regression & Classification | Not Started | 0 |
 | 4 | Jan 20-26 | Model Evaluation & Tuning | Not Started | 0 |
 | 5 | Jan 27 - Feb 2 | Transition to Hands-On | Not Started | 0 |
@@ -85,7 +85,7 @@ _None yet - start your journey!_
 | 7-day streak | +15 bonus |
 | 14-day streak | +30 bonus |
 
-**Current Total: 0 points**
+**Current Total: 15 points**
 
 ---
 
