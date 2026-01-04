@@ -21,7 +21,7 @@
 ```
 Q1 2026 PROGRESS
 ================
-January   [░░░░░░░░░░░░░░░░░░░░] 20%   Foundations
+January   [xxxx░░░░░░░░░░░░░░░░] 20%   Foundations
 February  [░░░░░░░░░░░░░░░░░░░░] 0%   Hands-On ML
 March     [░░░░░░░░░░░░░░░░░░░░] 0%   Integration & Deployment
 
