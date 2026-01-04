@@ -40,9 +40,10 @@ Introduction to Machine Learning - Complete Course 1, Week 1 (Videos 1-10)
 **Target:** Videos 7-8 + Lab (30 min)
 - [x] **Learning:** Video 7 - Unsupervised Learning Part 2 (~5 min)
 - [x] **Learning:** Video 8 - Jupyter Notebooks (~4 min)
-- [ ] **Hands-on:** Optional Lab - Python and Jupyter Notebooks
+- [x] **Hands-on:** Optional Lab - Python and Jupyter Notebooks
 - **Notes:**
-- **Time spent:** 10 / 30 min
+- Jupyter notebooks allow code execution and are used for model training. 
+- **Time spent:** 30 / 30 min
 
 ### Monday, January 5
 **Target:** Videos 9-10 + Quiz (30 min)
@@ -55,16 +56,16 @@ Introduction to Machine Learning - Complete Course 1, Week 1 (Videos 1-10)
 ---
 
 ## Weekly Summary
-**Total time:** 90 / 150 min (2.5 hrs)
+**Total time:** 120 / 150 min (2.5 hrs)
 **Videos completed:** 8/ 10
-**Labs completed:** 0 / 1
-**Quizzes completed:** 0 / 1
+**Labs completed:** 1 / 1
+**Quizzes completed:** 1 / 1
 
 **Key learnings:**
--
+- Supervised is giving inputs with answers, unsupervised is having machines look at data to categorize or find anomalies in the data. Jupyter notebooks are collections of markdown and python code to train models.
 
 **Blockers/Challenges:**
--
+- The Jupyter lab was one sheet?
 
 **Next week focus:**
 - Course 1, Week 1 completion (Videos 11-20)
@@ -76,5 +77,5 @@ Introduction to Machine Learning - Complete Course 1, Week 1 (Videos 1-10)
 | Activity | Points |
 |----------|--------|
 | Daily entries (5 × 5) | 20 / 25 |
-| Weekly summary | 0 / 10 |
-| **Total** | **0 / 35** |
+| Weekly summary | 10 / 10 |
+| **Total** | **30 / 35** |
