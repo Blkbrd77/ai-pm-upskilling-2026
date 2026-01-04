@@ -39,7 +39,7 @@ Introduction to Machine Learning - Complete Course 1, Week 1 (Videos 1-10)
 ### Sunday, January 4
 **Target:** Videos 7-8 + Lab (30 min)
 - [x] **Learning:** Video 7 - Unsupervised Learning Part 2 (~5 min)
-- [ ] **Learning:** Video 8 - Jupyter Notebooks (~4 min)
+- [x] **Learning:** Video 8 - Jupyter Notebooks (~4 min)
 - [ ] **Hands-on:** Optional Lab - Python and Jupyter Notebooks
 - **Notes:**
 - **Time spent:** 10 / 30 min
@@ -55,8 +55,8 @@ Introduction to Machine Learning - Complete Course 1, Week 1 (Videos 1-10)
 ---
 
 ## Weekly Summary
-**Total time:** 0 / 150 min (2.5 hrs)
-**Videos completed:** 0 / 10
+**Total time:** 90 / 150 min (2.5 hrs)
+**Videos completed:** 8/ 10
 **Labs completed:** 0 / 1
 **Quizzes completed:** 0 / 1
 
@@ -75,6 +75,6 @@ Introduction to Machine Learning - Complete Course 1, Week 1 (Videos 1-10)
 ## Points This Week
 | Activity | Points |
 |----------|--------|
-| Daily entries (5 × 5) | 0 / 25 |
+| Daily entries (5 × 5) | 20 / 25 |
 | Weekly summary | 0 / 10 |
 | **Total** | **0 / 35** |
