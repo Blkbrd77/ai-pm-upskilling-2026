@@ -10,7 +10,7 @@ Linear Regression Deep Dive - Course 1, Week 2 (Cost Function & Gradient Descent
 
 ## Daily Log
 
-### Monday, January 6
+### Monday, January 5
 **Target:** Videos 11-12 (30 min)
 - [ ] **Learning:** Video 11 - Cost Function Formula (~10 min)
 - [ ] **Learning:** Video 12 - Cost Function Intuition (~15 min)
@@ -18,7 +18,7 @@ Linear Regression Deep Dive - Course 1, Week 2 (Cost Function & Gradient Descent
 - **Notes:**
 - **Time spent:** 0 / 30 min
 
-### Tuesday, January 7
+### Tuesday, January 6
 **Target:** Videos 13-14 (30 min)
 - [ ] **Learning:** Video 13 - Visualizing the Cost Function (~8 min)
 - [ ] **Learning:** Video 14 - Visualization Examples (~12 min)
@@ -26,7 +26,7 @@ Linear Regression Deep Dive - Course 1, Week 2 (Cost Function & Gradient Descent
 - **Notes:**
 - **Time spent:** 0 / 30 min
 
-### Wednesday, January 8
+### Wednesday, January 7
 **Target:** Videos 15-16 (30 min)
 - [ ] **Learning:** Video 15 - Gradient Descent (~10 min)
 - [ ] **Learning:** Video 16 - Implementing Gradient Descent (~12 min)
@@ -34,7 +34,7 @@ Linear Regression Deep Dive - Course 1, Week 2 (Cost Function & Gradient Descent
 - **Notes:**
 - **Time spent:** 0 / 30 min
 
-### Thursday, January 9
+### Thursday, January 8
 **Target:** Videos 17-18 (30 min)
 - [ ] **Learning:** Video 17 - Gradient Descent Intuition (~10 min)
 - [ ] **Learning:** Video 18 - Learning Rate (~12 min)
@@ -42,7 +42,7 @@ Linear Regression Deep Dive - Course 1, Week 2 (Cost Function & Gradient Descent
 - **Notes:**
 - **Time spent:** 0 / 30 min
 
-### Friday, January 10
+### Friday, January 9
 **Target:** Videos 19-20 + Lab (30 min)
 - [ ] **Learning:** Video 19 - Gradient Descent for Linear Regression (~8 min)
 - [ ] **Learning:** Video 20 - Running Gradient Descent (~5 min)
@@ -50,7 +50,7 @@ Linear Regression Deep Dive - Course 1, Week 2 (Cost Function & Gradient Descent
 - **Notes:**
 - **Time spent:** 0 / 30 min
 
-### Saturday, January 11
+### Saturday, January 10
 **Target:** Week 2 Start - Multiple Features (30 min)
 - [ ] **Learning:** Week 2 Video 1 - Multiple Features (~10 min)
 - [ ] **Learning:** Week 2 Video 2 - Vectorization Part 1 (~8 min)
@@ -58,7 +58,7 @@ Linear Regression Deep Dive - Course 1, Week 2 (Cost Function & Gradient Descent
 - **Notes:**
 - **Time spent:** 0 / 30 min
 
-### Sunday, January 12
+### Sunday, January 11
 **Target:** Quiz + Review (30 min)
 - [ ] **Learning:** Review Week 1 concepts
 - [ ] **Hands-on:** Complete Practice Quiz - Regression with Multiple Variables
