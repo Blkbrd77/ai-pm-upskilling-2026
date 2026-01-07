@@ -12,19 +12,21 @@ Linear Regression Deep Dive - Course 1, Week 2 (Cost Function & Gradient Descent
 
 ### Monday, January 5
 **Target:** Videos 11-12 (30 min)
-- [ ] **Learning:** Video 11 - Cost Function Formula (~10 min)
-- [ ] **Learning:** Video 12 - Cost Function Intuition (~15 min)
-- [ ] **Hands-on:** Sketch cost function graph
+- [x] **Learning:** Video 11 - Cost Function Formula (~10 min)
+- [x] **Learning:** Video 12 - Cost Function Intuition (~15 min)
+- [x] **Hands-on:** Sketch cost function graph
 - **Notes:**
-- **Time spent:** 0 / 30 min
+- Cost function = function of difference between observed versus actual reduced by M the number of observations
+- **Time spent:** 30 / 30 min
 
 ### Tuesday, January 6
 **Target:** Videos 13-14 (30 min)
-- [ ] **Learning:** Video 13 - Visualizing the Cost Function (~8 min)
-- [ ] **Learning:** Video 14 - Visualization Examples (~12 min)
-- [ ] **Hands-on:** Optional Lab - Cost Function
+- [x] **Learning:** Video 13 - Visualizing the Cost Function (~8 min)
+- [x] **Learning:** Video 14 - Visualization Examples (~12 min)
+- [x] **Hands-on:** Optional Lab - Cost Function
 - **Notes:**
-- **Time spent:** 0 / 30 min
+- Cost function is a U shaped curve when b is removed and only solved for w, when B is added the u becomes 3 dimensional J(w,b), b, and w
+- **Time spent:** 30 / 30 min
 
 ### Wednesday, January 7
 **Target:** Videos 15-16 (30 min)
@@ -69,8 +71,8 @@ Linear Regression Deep Dive - Course 1, Week 2 (Cost Function & Gradient Descent
 ---
 
 ## Weekly Summary
-**Total time:** 0 / 210 min (3.5 hrs)
-**Videos completed:** 0 / 12
+**Total time:** 90 / 210 min (3.5 hrs)
+**Videos completed:** 4 / 12
 **Labs completed:** 0 / 3
 **Quizzes completed:** 0 / 1
 
@@ -89,6 +91,6 @@ Linear Regression Deep Dive - Course 1, Week 2 (Cost Function & Gradient Descent
 ## Points This Week
 | Activity | Points |
 |----------|--------|
-| Daily entries (7 × 5) | 0 / 35 |
+| Daily entries (7 × 5) | 10 / 35 |
 | Weekly summary | 0 / 10 |
-| **Total** | **0 / 45** |
+| **Total** | **10 / 45** |
