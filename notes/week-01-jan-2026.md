@@ -47,17 +47,18 @@ Introduction to Machine Learning - Complete Course 1, Week 1 (Videos 1-10)
 
 ### Monday, January 5
 **Target:** Videos 9-10 + Quiz (30 min)
-- [ ] **Learning:** Video 9 - Linear Regression Model Part 1 (~10 min)
-- [ ] **Learning:** Video 10 - Linear Regression Model Part 2 (~8 min)
-- [ ] **Hands-on:** Complete Practice Quiz 1
+- [x] **Learning:** Video 9 - Linear Regression Model Part 1 (~10 min)
+- [x] **Learning:** Video 10 - Linear Regression Model Part 2 (~8 min)
+- [x] **Hands-on:** Complete Practice Quiz 1
 - **Notes:**
-- **Time spent:** 0 / 30 min
+- x function y hat feature model prediction size f price (estimated)
+- **Time spent:** 30 / 30 min
 
 ---
 
 ## Weekly Summary
-**Total time:** 120 / 150 min (2.5 hrs)
-**Videos completed:** 8/ 10
+**Total time:** 150 / 150 min (2.5 hrs)
+**Videos completed:** 10/ 10
 **Labs completed:** 1 / 1
 **Quizzes completed:** 1 / 1
 
@@ -76,6 +77,6 @@ Introduction to Machine Learning - Complete Course 1, Week 1 (Videos 1-10)
 ## Points This Week
 | Activity | Points |
 |----------|--------|
-| Daily entries (5 × 5) | 20 / 25 |
+| Daily entries (5 × 5) | 25 / 25 |
 | Weekly summary | 10 / 10 |
-| **Total** | **30 / 35** |
+| **Total** | **35 / 35** |
