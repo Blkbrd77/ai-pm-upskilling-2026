@@ -30,10 +30,11 @@ Linear Regression Deep Dive - Course 1, Week 2 (Cost Function & Gradient Descent
 
 ### Wednesday, January 7
 **Target:** Videos 15-16 (30 min)
-- [ ] **Learning:** Video 15 - Gradient Descent (~10 min)
+- [x] **Learning:** Video 15 - Gradient Descent (~10 min)
 - [ ] **Learning:** Video 16 - Implementing Gradient Descent (~12 min)
 - [ ] **Hands-on:** Write pseudocode for gradient descent
 - **Notes:**
+- In other regressions outside of linear, you get a 3d model of hills and valleys, starting at top of hill spin 360 to find baby step that will be biggest reduction from height you are at, repeat until bottom of valley. There may be multiple valleys depending on start point, these are local minima.
 - **Time spent:** 0 / 30 min
 
 ### Thursday, January 8
