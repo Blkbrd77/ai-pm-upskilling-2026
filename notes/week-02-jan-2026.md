@@ -40,18 +40,18 @@ Linear Regression Deep Dive - Course 1, Week 2 (Cost Function & Gradient Descent
 ### Thursday, January 8
 **Target:** Videos 17-18 (30 min)
 - [x] **Learning:** Video 17 - Gradient Descent Intuition (~10 min)
-- [ ] **Learning:** Video 18 - Learning Rate (~12 min)
-- [ ] **Hands-on:** Optional Lab - Gradient Descent
+- [x] **Learning:** Video 18 - Learning Rate (~12 min)
+- [x] **Hands-on:** Optional Lab - Gradient Descent
 - **Notes:**
-- **Time spent:** 0 / 30 min
+- **Time spent:** 30 / 30 min
 
 ### Friday, January 9
 **Target:** Videos 19-20 + Lab (30 min)
-- [ ] **Learning:** Video 19 - Gradient Descent for Linear Regression (~8 min)
-- [ ] **Learning:** Video 20 - Running Gradient Descent (~5 min)
-- [ ] **Hands-on:** Optional Lab - Gradient Descent for Linear Regression
+- [x] **Learning:** Video 19 - Gradient Descent for Linear Regression (~8 min)
+- [x] **Learning:** Video 20 - Running Gradient Descent (~5 min)
+- [x] **Hands-on:** Optional Lab - Gradient Descent for Linear Regression
 - **Notes:**
-- **Time spent:** 0 / 30 min
+- **Time spent:** 30 / 30 min
 
 ### Saturday, January 10
 **Target:** Week 2 Start - Multiple Features (30 min)
@@ -72,9 +72,9 @@ Linear Regression Deep Dive - Course 1, Week 2 (Cost Function & Gradient Descent
 ---
 
 ## Weekly Summary
-**Total time:** 90 / 210 min (3.5 hrs)
-**Videos completed:** 4 / 12
-**Labs completed:** 0 / 3
+**Total time:** 150 / 210 min (3.5 hrs)
+**Videos completed:** 8 / 12
+**Labs completed:** 3 / 3
 **Quizzes completed:** 0 / 1
 
 **Key learnings:**
