@@ -1,7 +1,7 @@
-# Week 3: January 13-19, 2026
+# Week 3: January 19-25, 2026
 
 ## Weekly Goal
-Feature Engineering & Practice - Course 1, Week 2 Completion + Programming Assignment 1
+Multiple Features & Vectorization - Course 1, Week 2 Continuation
 
 **Course:** Supervised Machine Learning: Regression and Classification
 **Target:** 3.5 hours total (30 min/day × 7 days)
@@ -10,7 +10,23 @@ Feature Engineering & Practice - Course 1, Week 2 Completion + Programming Assig
 
 ## Daily Log
 
-### Monday, January 13
+### Monday, January 19
+**Target:** Week 2 Start - Multiple Features (30 min)
+- [ ] **Learning:** Week 2 Video 1 - Multiple Features (~10 min)
+- [ ] **Learning:** Week 2 Video 2 - Vectorization Part 1 (~8 min)
+- [ ] **Hands-on:** Review Python numpy arrays
+- **Notes:**
+- **Time spent:** 0 / 30 min
+
+### Tuesday, January 20
+**Target:** Quiz + Review (30 min)
+- [ ] **Learning:** Review Week 1 concepts
+- [ ] **Hands-on:** Complete Practice Quiz - Regression with Multiple Variables
+- [ ] **Hands-on:** Review any missed concepts
+- **Notes:**
+- **Time spent:** 0 / 30 min
+
+### Wednesday, January 21
 **Target:** Vectorization (30 min)
 - [ ] **Learning:** Video - Vectorization Part 2 (~8 min)
 - [ ] **Learning:** Video - Gradient Descent with Vectorization (~10 min)
@@ -18,7 +34,7 @@ Feature Engineering & Practice - Course 1, Week 2 Completion + Programming Assig
 - **Notes:**
 - **Time spent:** 0 / 30 min
 
-### Tuesday, January 14
+### Thursday, January 22
 **Target:** Feature Scaling (30 min)
 - [ ] **Learning:** Video - Feature Scaling Part 1 (~10 min)
 - [ ] **Learning:** Video - Feature Scaling Part 2 (~8 min)
@@ -26,7 +42,7 @@ Feature Engineering & Practice - Course 1, Week 2 Completion + Programming Assig
 - **Notes:**
 - **Time spent:** 0 / 30 min
 
-### Wednesday, January 15
+### Friday, January 23
 **Target:** Learning Rate & Convergence (30 min)
 - [ ] **Learning:** Video - Checking Gradient Descent (~8 min)
 - [ ] **Learning:** Video - Choosing the Learning Rate (~10 min)
@@ -34,7 +50,7 @@ Feature Engineering & Practice - Course 1, Week 2 Completion + Programming Assig
 - **Notes:**
 - **Time spent:** 0 / 30 min
 
-### Thursday, January 16
+### Saturday, January 24
 **Target:** Feature Engineering (30 min)
 - [ ] **Learning:** Video - Feature Engineering (~10 min)
 - [ ] **Learning:** Video - Polynomial Regression (~10 min)
@@ -42,7 +58,7 @@ Feature Engineering & Practice - Course 1, Week 2 Completion + Programming Assig
 - **Notes:**
 - **Time spent:** 0 / 30 min
 
-### Friday, January 17
+### Sunday, January 25
 **Target:** Programming Assignment Setup (30 min)
 - [ ] **Learning:** Review assignment requirements
 - [ ] **Hands-on:** Start Programming Assignment 1 - Linear Regression
@@ -50,30 +66,13 @@ Feature Engineering & Practice - Course 1, Week 2 Completion + Programming Assig
 - **Notes:**
 - **Time spent:** 0 / 30 min
 
-### Saturday, January 18
-**Target:** Programming Assignment Completion (30 min)
-- [ ] **Hands-on:** Complete Programming Assignment 1 - Parts 2-3
-- [ ] **Hands-on:** Debug and test code
-- [ ] **Hands-on:** Submit assignment
-- **Notes:**
-- **Time spent:** 0 / 30 min
-
-### Sunday, January 19
-**Target:** Week 2 Quiz + Review (30 min)
-- [ ] **Learning:** Review all Week 2 concepts
-- [ ] **Hands-on:** Complete Week 2 Practice Quiz
-- [ ] **Hands-on:** Complete Graded Quiz
-- **Notes:**
-- **Time spent:** 0 / 30 min
-
 ---
 
 ## Weekly Summary
 **Total time:** 0 / 210 min (3.5 hrs)
-**Videos completed:** 0 / 8
+**Videos completed:** 0 / 10
 **Labs completed:** 0 / 3
-**Programming assignments:** 0 / 1
-**Quizzes completed:** 0 / 2
+**Quizzes completed:** 0 / 1
 
 **Key learnings:**
 -
@@ -82,8 +81,8 @@ Feature Engineering & Practice - Course 1, Week 2 Completion + Programming Assig
 -
 
 **Next week focus:**
+- Programming Assignment 1 completion
 - Classification & Logistic Regression
-- Course 1, Week 3
 
 ---
 
@@ -92,5 +91,4 @@ Feature Engineering & Practice - Course 1, Week 2 Completion + Programming Assig
 |----------|--------|
 | Daily entries (7 × 5) | 0 / 35 |
 | Weekly summary | 0 / 10 |
-| Programming assignment | 0 / 25 |
-| **Total** | **0 / 70** |
+| **Total** | **0 / 45** |

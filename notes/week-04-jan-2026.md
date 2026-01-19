@@ -1,7 +1,7 @@
-# Week 4: January 20-26, 2026
+# Week 4: January 26 - February 1, 2026
 
 ## Weekly Goal
-Classification & Logistic Regression - Course 1, Week 3
+Programming Assignment 1 Completion & Classification Introduction - Course 1, Week 2-3
 
 **Course:** Supervised Machine Learning: Regression and Classification
 **Target:** 3.5 hours total (30 min/day × 7 days)
@@ -10,7 +10,23 @@ Classification & Logistic Regression - Course 1, Week 3
 
 ## Daily Log
 
-### Monday, January 20
+### Monday, January 26
+**Target:** Programming Assignment Completion (30 min)
+- [ ] **Hands-on:** Complete Programming Assignment 1 - Parts 2-3
+- [ ] **Hands-on:** Debug and test code
+- [ ] **Hands-on:** Submit assignment
+- **Notes:**
+- **Time spent:** 0 / 30 min
+
+### Tuesday, January 27
+**Target:** Week 2 Quiz + Review (30 min)
+- [ ] **Learning:** Review all Week 2 concepts
+- [ ] **Hands-on:** Complete Week 2 Practice Quiz
+- [ ] **Hands-on:** Complete Graded Quiz
+- **Notes:**
+- **Time spent:** 0 / 30 min
+
+### Wednesday, January 28
 **Target:** Classification Intro (30 min)
 - [ ] **Learning:** Video - Classification (~8 min)
 - [ ] **Learning:** Video - Binary Classification (~10 min)
@@ -18,7 +34,7 @@ Classification & Logistic Regression - Course 1, Week 3
 - **Notes:**
 - **Time spent:** 0 / 30 min
 
-### Tuesday, January 21
+### Thursday, January 29
 **Target:** Logistic Regression (30 min)
 - [ ] **Learning:** Video - Logistic Regression (~10 min)
 - [ ] **Learning:** Video - Sigmoid Function (~8 min)
@@ -26,7 +42,7 @@ Classification & Logistic Regression - Course 1, Week 3
 - **Notes:**
 - **Time spent:** 0 / 30 min
 
-### Wednesday, January 22
+### Friday, January 30
 **Target:** Decision Boundary (30 min)
 - [ ] **Learning:** Video - Decision Boundary (~10 min)
 - [ ] **Learning:** Video - Cost Function for Logistic Regression (~10 min)
@@ -34,7 +50,7 @@ Classification & Logistic Regression - Course 1, Week 3
 - **Notes:**
 - **Time spent:** 0 / 30 min
 
-### Thursday, January 23
+### Saturday, January 31
 **Target:** Logistic Loss (30 min)
 - [ ] **Learning:** Video - Simplified Loss Function (~8 min)
 - [ ] **Learning:** Video - Gradient Descent for Logistic Regression (~10 min)
@@ -42,7 +58,7 @@ Classification & Logistic Regression - Course 1, Week 3
 - **Notes:**
 - **Time spent:** 0 / 30 min
 
-### Friday, January 24
+### Sunday, February 1
 **Target:** Overfitting (30 min)
 - [ ] **Learning:** Video - The Problem of Overfitting (~10 min)
 - [ ] **Learning:** Video - Addressing Overfitting (~8 min)
@@ -50,29 +66,14 @@ Classification & Logistic Regression - Course 1, Week 3
 - **Notes:**
 - **Time spent:** 0 / 30 min
 
-### Saturday, January 25
-**Target:** Regularization (30 min)
-- [ ] **Learning:** Video - Cost Function with Regularization (~10 min)
-- [ ] **Learning:** Video - Regularized Linear Regression (~8 min)
-- [ ] **Hands-on:** Optional Lab - Regularization
-- **Notes:**
-- **Time spent:** 0 / 30 min
-
-### Sunday, January 26
-**Target:** Regularized Logistic Regression (30 min)
-- [ ] **Learning:** Video - Regularized Logistic Regression (~10 min)
-- [ ] **Hands-on:** Practice Quiz - Classification
-- [ ] **Hands-on:** Review key concepts
-- **Notes:**
-- **Time spent:** 0 / 30 min
-
 ---
 
 ## Weekly Summary
 **Total time:** 0 / 210 min (3.5 hrs)
-**Videos completed:** 0 / 13
-**Labs completed:** 0 / 5
-**Quizzes completed:** 0 / 1
+**Videos completed:** 0 / 10
+**Labs completed:** 0 / 4
+**Programming assignments:** 0 / 1
+**Quizzes completed:** 0 / 2
 
 **Key learnings:**
 -
@@ -81,9 +82,8 @@ Classification & Logistic Regression - Course 1, Week 3
 -
 
 **Next week focus:**
-- Course 1 completion
+- Regularization
 - Programming Assignment 2
-- Prepare for February hands-on projects
 
 ---
 
@@ -92,4 +92,5 @@ Classification & Logistic Regression - Course 1, Week 3
 |----------|--------|
 | Daily entries (7 × 5) | 0 / 35 |
 | Weekly summary | 0 / 10 |
-| **Total** | **0 / 45** |
+| Programming assignment | 0 / 25 |
+| **Total** | **0 / 70** |

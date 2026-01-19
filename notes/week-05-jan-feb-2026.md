@@ -1,16 +1,32 @@
-# Week 5: January 27 - February 2, 2026
+# Week 5: February 2-8, 2026
 
 ## Weekly Goal
-Course 1 Completion & Transition to Hands-On Projects
+Regularization & Programming Assignment 2 - Course 1, Week 3 Completion
 
-**Course:** Supervised Machine Learning: Regression and Classification (Final Week)
+**Course:** Supervised Machine Learning: Regression and Classification
 **Target:** 3.5 hours total (30 min/day × 7 days)
 
 ---
 
 ## Daily Log
 
-### Monday, January 27
+### Monday, February 2
+**Target:** Regularization (30 min)
+- [ ] **Learning:** Video - Cost Function with Regularization (~10 min)
+- [ ] **Learning:** Video - Regularized Linear Regression (~8 min)
+- [ ] **Hands-on:** Optional Lab - Regularization
+- **Notes:**
+- **Time spent:** 0 / 30 min
+
+### Tuesday, February 3
+**Target:** Regularized Logistic Regression (30 min)
+- [ ] **Learning:** Video - Regularized Logistic Regression (~10 min)
+- [ ] **Hands-on:** Practice Quiz - Classification
+- [ ] **Hands-on:** Review key concepts
+- **Notes:**
+- **Time spent:** 0 / 30 min
+
+### Wednesday, February 4
 **Target:** Programming Assignment 2 Start (30 min)
 - [ ] **Learning:** Review assignment requirements
 - [ ] **Hands-on:** Start Programming Assignment 2 - Logistic Regression
@@ -18,7 +34,7 @@ Course 1 Completion & Transition to Hands-On Projects
 - **Notes:**
 - **Time spent:** 0 / 30 min
 
-### Tuesday, January 28
+### Thursday, February 5
 **Target:** Programming Assignment 2 Continue (30 min)
 - [ ] **Hands-on:** Complete Part 2 - Cost function implementation
 - [ ] **Hands-on:** Complete Part 3 - Gradient descent
@@ -26,7 +42,7 @@ Course 1 Completion & Transition to Hands-On Projects
 - **Notes:**
 - **Time spent:** 0 / 30 min
 
-### Wednesday, January 29
+### Friday, February 6
 **Target:** Programming Assignment 2 Complete (30 min)
 - [ ] **Hands-on:** Complete Part 4 - Regularization
 - [ ] **Hands-on:** Final testing and submission
@@ -34,7 +50,7 @@ Course 1 Completion & Transition to Hands-On Projects
 - **Notes:**
 - **Time spent:** 0 / 30 min
 
-### Thursday, January 30
+### Saturday, February 7
 **Target:** Course 1 Final Quiz (30 min)
 - [ ] **Learning:** Review all Course 1 concepts
 - [ ] **Hands-on:** Complete Week 3 Graded Quiz
@@ -42,7 +58,7 @@ Course 1 Completion & Transition to Hands-On Projects
 - **Notes:**
 - **Time spent:** 0 / 30 min
 
-### Friday, January 31
+### Sunday, February 8
 **Target:** Course 1 Wrap-Up (30 min)
 - [ ] **Learning:** Complete any remaining content
 - [ ] **Hands-on:** Download Course 1 Certificate
@@ -50,29 +66,14 @@ Course 1 Completion & Transition to Hands-On Projects
 - **Notes:**
 - **Time spent:** 0 / 30 min
 
-### Saturday, February 1
-**Target:** February Prep (30 min)
-- [ ] **Learning:** Review scikit-learn documentation
-- [ ] **Hands-on:** Set up local Python environment
-- [ ] **Hands-on:** Test Jupyter notebook setup
-- **Notes:**
-- **Time spent:** 0 / 30 min
-
-### Sunday, February 2
-**Target:** Project 1 Planning (30 min)
-- [ ] **Hands-on:** Review Cost Overrun Regression notebook structure
-- [ ] **Hands-on:** Plan synthetic dataset features
-- [ ] **Hands-on:** Outline approach for Week 6
-- **Notes:**
-- **Time spent:** 0 / 30 min
-
 ---
 
 ## Weekly Summary
 **Total time:** 0 / 210 min (3.5 hrs)
+**Videos completed:** 0 / 3
+**Labs completed:** 0 / 1
 **Programming assignments:** 0 / 1
-**Quizzes completed:** 0 / 1
-**Certificate earned:** [ ]
+**Quizzes completed:** 0 / 2
 
 **Key learnings:**
 -
@@ -81,8 +82,8 @@ Course 1 Completion & Transition to Hands-On Projects
 -
 
 **Next week focus:**
-- Cost Overrun Regression notebook
-- Apply linear regression to PM domain
+- February hands-on projects prep
+- Project 1 planning
 
 ---
 
@@ -92,16 +93,4 @@ Course 1 Completion & Transition to Hands-On Projects
 | Daily entries (7 × 5) | 0 / 35 |
 | Weekly summary | 0 / 10 |
 | Programming assignment | 0 / 25 |
-| Course 1 Certificate | 0 / 50 |
-| **Total** | **0 / 120** |
-
----
-
-## January Phase Complete Checklist
-- [ ] Course 1 Certificate earned
-- [ ] All 5 weekly notes completed
-- [ ] 50+ videos watched
-- [ ] 2 programming assignments submitted
-- [ ] Local environment ready for February
-
-**Badge Unlocked:** :mortar_board: Foundation Builder (if all complete)
+| **Total** | **0 / 70** |

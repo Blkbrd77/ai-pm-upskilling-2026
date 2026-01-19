@@ -1,10 +1,12 @@
-# Week 2: January 6-12, 2026
+# Week 2: January 5-9, 2026
 
 ## Weekly Goal
 Linear Regression Deep Dive - Course 1, Week 2 (Cost Function & Gradient Descent)
 
 **Course:** Supervised Machine Learning: Regression and Classification
-**Target:** 3.5 hours total (30 min/day × 7 days)
+**Target:** 2.5 hours total (30 min/day × 5 days)
+
+**Note:** Schedule paused after January 9. Remaining content rescheduled to start January 19.
 
 ---
 
@@ -53,45 +55,28 @@ Linear Regression Deep Dive - Course 1, Week 2 (Cost Function & Gradient Descent
 - **Notes:**
 - **Time spent:** 30 / 30 min
 
-### Saturday, January 10
-**Target:** Week 2 Start - Multiple Features (30 min)
-- [ ] **Learning:** Week 2 Video 1 - Multiple Features (~10 min)
-- [ ] **Learning:** Week 2 Video 2 - Vectorization Part 1 (~8 min)
-- [ ] **Hands-on:** Review Python numpy arrays
-- **Notes:**
-- **Time spent:** 0 / 30 min
-
-### Sunday, January 11
-**Target:** Quiz + Review (30 min)
-- [ ] **Learning:** Review Week 1 concepts
-- [ ] **Hands-on:** Complete Practice Quiz - Regression with Multiple Variables
-- [ ] **Hands-on:** Review any missed concepts
-- **Notes:**
-- **Time spent:** 0 / 30 min
-
 ---
 
 ## Weekly Summary
-**Total time:** 150 / 210 min (3.5 hrs)
-**Videos completed:** 8 / 12
+**Total time:** 150 / 150 min (2.5 hrs)
+**Videos completed:** 10 / 10
 **Labs completed:** 3 / 3
-**Quizzes completed:** 0 / 1
+**Quizzes completed:** 0 / 0
 
 **Key learnings:**
 -
 
 **Blockers/Challenges:**
--
+- Schedule paused after January 9
 
 **Next week focus:**
-- Feature scaling and learning rate tuning
-- Programming Assignment 1
+- Resuming January 19 with Multiple Features
 
 ---
 
 ## Points This Week
 | Activity | Points |
 |----------|--------|
-| Daily entries (7 × 5) | 10 / 35 |
-| Weekly summary | 0 / 10 |
-| **Total** | **10 / 45** |
+| Daily entries (5 × 5) | 25 / 25 |
+| Weekly summary | 10 / 10 |
+| **Total** | **35 / 35** |
