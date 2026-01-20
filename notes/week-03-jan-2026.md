@@ -12,11 +12,12 @@ Multiple Features & Vectorization - Course 1, Week 2 Continuation
 
 ### Monday, January 19
 **Target:** Week 2 Start - Multiple Features (30 min)
-- [ ] **Learning:** Week 2 Video 1 - Multiple Features (~10 min)
-- [ ] **Learning:** Week 2 Video 2 - Vectorization Part 1 (~8 min)
-- [ ] **Hands-on:** Review Python numpy arrays
+- [x] **Learning:** Week 2 Video 1 - Multiple Features (~10 min)
+- [x] **Learning:** Week 2 Video 2 - Vectorization Part 1 (~8 min)
+- [x] **Hands-on:** Review Python numpy arrays
 - **Notes:**
-- **Time spent:** 0 / 30 min
+f = np.dot(w,x) + b
+- **Time spent:** 30 / 30 min
 
 ### Tuesday, January 20
 **Target:** Quiz + Review (30 min)
@@ -28,7 +29,7 @@ Multiple Features & Vectorization - Course 1, Week 2 Continuation
 
 ### Wednesday, January 21
 **Target:** Vectorization (30 min)
-- [ ] **Learning:** Video - Vectorization Part 2 (~8 min)
+- [x] **Learning:** Video - Vectorization Part 2 (~8 min)
 - [ ] **Learning:** Video - Gradient Descent with Vectorization (~10 min)
 - [ ] **Hands-on:** Optional Lab - Vectorization
 - **Notes:**
