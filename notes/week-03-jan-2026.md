@@ -21,9 +21,9 @@ f = np.dot(w,x) + b
 
 ### Tuesday, January 20
 **Target:** Quiz + Review (30 min)
-- [ ] **Learning:** Review Week 1 concepts
+- [X] **Learning:** Review Week 1 concepts
 - [ ] **Hands-on:** Complete Practice Quiz - Regression with Multiple Variables
-- [ ] **Hands-on:** Review any missed concepts
+- [X] **Hands-on:** Review any missed concepts
 - **Notes:**
 - **Time spent:** 0 / 30 min
 
@@ -31,7 +31,7 @@ f = np.dot(w,x) + b
 **Target:** Vectorization (30 min)
 - [x] **Learning:** Video - Vectorization Part 2 (~8 min)
 - [ ] **Learning:** Video - Gradient Descent with Vectorization (~10 min)
-- [ ] **Hands-on:** Optional Lab - Vectorization
+- [x] **Hands-on:** Optional Lab - Vectorization
 - **Notes:**
 - **Time spent:** 0 / 30 min
 
